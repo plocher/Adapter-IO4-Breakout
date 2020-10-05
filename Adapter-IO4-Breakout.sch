@@ -6018,12 +6018,12 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="U$1" library="SparkFun" deviceset="OSHW-LOGO" device="M"/>
-<part name="J3" library="SPCoast" deviceset="CONNECTOR-M06" device="LOCK"/>
+<part name="J3" library="SPCoast" deviceset="CONNECTOR-M06" device="LOCK" value="0.100"/>
 <part name="BOARD1" library="SPCoast" deviceset="BOARD" device="50X50-HOHOLES"/>
-<part name="V+" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
-<part name="GND" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
-<part name="CON1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C"/>
-<part name="CON2" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C"/>
+<part name="V+" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK" value="0.100"/>
+<part name="GND" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK" value="0.100"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
 </parts>
 <sheets>
 <sheet>
